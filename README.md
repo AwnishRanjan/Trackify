@@ -10,13 +10,13 @@ With Tracify, you can monitor and track objects or individuals within a specifie
 ## Features
 
 - **Real-time Object Detection**: Tracify employs YOLOv5, a highly efficient object detection model, to detect objects in
--                                 real-time from various input sources such as webcams, video files, or live streams.
+  real-time from various input sources such as webcams, video files, or live streams.
 
 - **Multi-object Tracking (MOT)**: DeepSORT is integrated into Tracify to perform multi-object tracking, allowing the system
--                                  to track multiple objects simultaneously across consecutive frames with high accuracy.
+  to track multiple objects simultaneously across consecutive frames with high accuracy.
 
 - **Customizable Configuration**: Tracify offers customizable configuration options, allowing users to adjust parameters such as
--                                  confidence thresholds, NMS thresholds, and more to suit their specific requirements.
+  confidence thresholds, NMS thresholds, and more to suit their specific requirements.
 
 ## Installation
 
