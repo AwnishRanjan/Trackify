@@ -1,0 +1,5 @@
+install yolo req
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+pip install easydict
+
+python detect_sort.py --weights yolov5s.pt  --img 640  --source pedestrian.mp4  / --source 1/0 for camera 
