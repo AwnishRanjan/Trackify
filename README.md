@@ -1,4 +1,4 @@
-# Tracify: Object Tracking
+# Tracify: Real Time Object Tracking
 
 Tracify is a versatile surveillance system that combines object detection and multi-object tracking (MOT) to provide enhanced security and monitoring capabilities.
 
